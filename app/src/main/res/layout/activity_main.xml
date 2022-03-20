@@ -18,7 +18,7 @@
         android:id="@+id/img_prdImage"
         android:layout_width="wrap_content"
 
-        android:layout_height="wrap_content"
+        android:layout_height="300px"
         android:background="@android:color/black"
         app:layout_constraintBottom_toTopOf="@+id/btn_showlink"
         app:layout_constraintEnd_toEndOf="parent"
